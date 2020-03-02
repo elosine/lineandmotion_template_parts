@@ -1,0 +1,25 @@
+body {
+  background-color: #708090;
+  margin: 0;
+}
+
+#startButton {
+  background-color: yellow;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  z-index: 1;
+  position: absolute;
+}
+/* 1920 x 1080 */
+#runway {
+  background-color: black;
+  width: 1920PX;
+  height: 720px;
+}
+
+#notationContainersOuterDiv {
+  background-color: black;
+  width: 1920PX;
+  height: 360px;
+}
